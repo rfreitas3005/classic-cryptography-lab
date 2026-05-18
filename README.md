@@ -1,8 +1,8 @@
-# Lab Cripto 🔐
+# Lab Cripto
 
 A comprehensive cryptography laboratory application built with Python and Tkinter. Learn and visualize classic cipher algorithms with step-by-step calculations.
 
-## Features 🎯
+## Features
 
 - **Caesar Cipher**: Basic substitution cipher with customizable displacement
 - **Monoalphabetic Substitution**: Full alphabet replacement cipher
@@ -11,7 +11,7 @@ A comprehensive cryptography laboratory application built with Python and Tkinte
 - **Vernam Cipher (OTP)**: One-Time Pad encryption
 - **Columnar Transposition**: Transposition cipher using keyword ordering
 
-## Screenshots 📸
+## Screenshots
 
 All ciphers include:
 - Real-time step-by-step calculation visualization
@@ -19,7 +19,7 @@ All ciphers include:
 - Clean and intuitive dark-themed UI
 - Input validation and error handling
 
-## Installation 🚀
+## Installation 
 
 ### Requirements
 - Python 3.9+
@@ -58,7 +58,7 @@ run.bat
 py main.py
 ```
 
-## Usage 📖
+## Usage 
 
 1. **Select a cipher** from the dropdown menu
 2. **Enter your message** to encrypt
@@ -70,7 +70,7 @@ py main.py
 4. **Click "Encrypt Message"** to process
 5. **View step-by-step calculations** in the results panel
 
-## Project Structure 📁
+## Project Structure 
 
 ```
 lab_cripto/
@@ -94,7 +94,7 @@ lab_cripto/
         └── styles.py      # Theme and styles
 ```
 
-## Technical Details 🔧
+## Technical Details 
 
 ### Architecture
 
@@ -111,7 +111,7 @@ The application follows a modular design:
 - Terminal: `#11111B`
 - Success: `#A6E3A1`
 
-## Building Executable 🔨
+## Building Executable 
 
 To create a standalone executable using PyInstaller:
 
@@ -132,19 +132,19 @@ build.bat
 
 The executable will be created in the `dist/` folder as `lab_cripto.exe`.
 
-## Educational Purpose 📚
+## Educational Purpose 
 
 This project is designed for learning cryptography concepts. Classic ciphers have known vulnerabilities and should **NOT** be used for actual data protection.
 
-## License 📄
+## License 
 
 MIT License - See LICENSE file for details
 
-## Author ✍️
+## Author 
 
 Developed by Ricardo Freitas
 
-## Contributing 🤝
+## Contributing 
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
