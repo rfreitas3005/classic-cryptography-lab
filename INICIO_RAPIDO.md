@@ -1,6 +1,6 @@
 # Lab Cripto - Guia Rápido em Português 🇵🇹
 
-## 🚀 Correr a Aplicação
+## Correr a Aplicação
 
 ### Opção 1: A Forma Mais Fácil (Recomendado)
 Simplesmente **clica duas vezes** no ficheiro `run.bat` que está na pasta do projeto.
@@ -18,7 +18,7 @@ Ou usa Python diretamente:
 py main.py
 ```
 
-## 🔨 Criar um Executável (.exe)
+## Criar um Executável (.exe)
 
 ### Opção 1: A Forma Mais Fácil
 Clica duas vezes no ficheiro `build.bat`.
@@ -36,7 +36,7 @@ Ou usa Python com PyInstaller diretamente:
 py -m PyInstaller lab_cripto_new.spec
 ```
 
-## 📝 Testar os Ciphers
+## Testar os Ciphers
 
 Para ver exemplos de todos os ciphers funcionando:
 
@@ -44,7 +44,7 @@ Para ver exemplos de todos os ciphers funcionando:
 py example_usage.py
 ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 lab_cripto/
@@ -64,7 +64,7 @@ lab_cripto/
     └── ui/                   # Interface gráfica
 ```
 
-## 🤔 Problemas Comuns
+## Problemas Comuns
 
 ### Erro: "Python was not found"
 **Solução:** Usa o ficheiro `run.bat` em vez de tentar escrever `python` manualmente.
@@ -75,7 +75,7 @@ lab_cripto/
 ### Erro: "ModuleNotFoundError"
 **Solução:** Verifica se Python está instalado corretamente.
 
-## 📚 Documentação Completa
+## Documentação Completa
 
 - **README.md** - Documentação técnica em inglês
 - **SETUP_WINDOWS.md** - Guia completo de setup para Windows
@@ -83,7 +83,7 @@ lab_cripto/
 - **CHANGELOG.md** - Histórico de versões
 - **CONTRIBUTING.md** - Como contribuir
 
-## ✨ Resumo
+## Resumo
 `run.bat` ou `py main.py` |
 | Criar .exe | `build.bat` |
 | Testar ciphers | `py
